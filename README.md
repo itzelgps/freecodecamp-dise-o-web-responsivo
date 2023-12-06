@@ -5,6 +5,7 @@ Este repositorio es una colección de todos los proyectos que he completado a tr
 ## certificación
 
 - **Deseño Web Responsivo**
+
     - Aprende HTML construyendo una aplicación de fotos de gatos ✔️
     - Aprende CSS básico construyendo un menú de cafetería ✔️
     - Aprenda los colores de CSS construyendo un conjunto de marcadores de colores
@@ -39,3 +40,5 @@ Este repositorio es una colección de todos los proyectos que he completado a tr
 
      #### Proyecto de certificación : **Página web del Portafolio personal**
     ----------------------------------------------------------
+
+Hecho con mucho 🍵.
